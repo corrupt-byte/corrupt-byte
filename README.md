@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=corrupt-byte&theme=onedark)](https://github.com/corrupt-byte/github-profile-trophy)
+
 <!--
 **corrupt-byte/corrupt-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
